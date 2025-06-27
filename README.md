@@ -17,9 +17,6 @@ A GUI tool to merge multiple audio channels from video files using FFmpeg with b
 - PyQt5
 - FFmpeg (must be in system PATH)
 
-## Installation
-```bash
-pip install PyQt5
 
 Usage
 Select input video files
