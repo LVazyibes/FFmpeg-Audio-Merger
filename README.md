@@ -1,4 +1,4 @@
-# FFmpeg Audio Merger Fast and Without Video REencoding
+# FFmpeg Audio Merger ( Fast and Without Video REencoding )
 
 A GUI tool to merge multiple audio channels from video files using FFmpeg with batch processing capabilities.
 
