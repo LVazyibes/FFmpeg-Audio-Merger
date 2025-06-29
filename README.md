@@ -1,4 +1,4 @@
-# FFmpeg Audio Merger
+# FFmpeg Audio Merger Fast and Without Video REencoding
 
 A GUI tool to merge multiple audio channels from video files using FFmpeg with batch processing capabilities.
 
@@ -11,6 +11,7 @@ A GUI tool to merge multiple audio channels from video files using FFmpeg with b
 - Preserve original video stream
 - Progress tracking for each file
 - Drag and drop support
+- Fast Process without Video REencoding
 
 ## Requirements
 - Python 3.x
